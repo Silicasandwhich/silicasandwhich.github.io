@@ -1,2 +1,2 @@
-# silicasandwhich.github.io
+# silicasandwhich
 my github pages site
